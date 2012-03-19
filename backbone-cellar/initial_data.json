@@ -1,0 +1,170 @@
+[
+    {
+        "pk": 1, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/block_nine.jpg", 
+            "name": "BLOCK NINE", 
+            "country": "USA", 
+            "region": "California", 
+            "grapes": "Pinot Noir", 
+            "year": "2009", 
+            "id": "9", 
+            "description": "With hints of ginger and spice, this wine makes an excellent complement to light appetizer and dessert fare for a holiday gathering."
+        }
+    }, 
+    {
+        "pk": 2, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/bodega_lurton.jpg", 
+            "name": "BODEGA LURTON", 
+            "country": "Argentina", 
+            "region": "Mendoza", 
+            "grapes": "Pinot Gris", 
+            "year": "2011", 
+            "id": "11", 
+            "description": "Solid notes of black currant blended with a light citrus make this wine an easy pour for varied palates."
+        }
+    }, 
+    {
+        "pk": 3, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/saint_cosme.jpg", 
+            "name": "CHATEAU DE SAINT COSME", 
+            "country": "France", 
+            "region": "Southern Rhone / Gigondas", 
+            "grapes": "Grenache / Syrah", 
+            "year": "2009", 
+            "id": "1", 
+            "description": "The aromas of fruit and spice give one a hint of the light drinkability of this lovely wine, which makes an excellent complement to fish dishes."
+        }
+    }, 
+    {
+        "pk": 4, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/le_doyenne.jpg", 
+            "name": "CHATEAU LE DOYENNE", 
+            "country": "France", 
+            "region": "Bordeaux", 
+            "grapes": "Merlot", 
+            "year": "2005", 
+            "id": "7", 
+            "description": "Though dense and chewy, this wine does not overpower with its finely balanced depth and structure. It is a truly luxurious experience for the\nsenses."
+        }
+    }, 
+    {
+        "pk": 5, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/bouscat.jpg", 
+            "name": "DOMAINE DU BOUSCAT", 
+            "country": "France", 
+            "region": "Bordeaux", 
+            "grapes": "Merlot", 
+            "year": "2009", 
+            "id": "8", 
+            "description": "The light golden color of this wine belies the bright flavor it holds. A true summer wine, it begs for a picnic lunch in a sun-soaked vineyard."
+        }
+    }, 
+    {
+        "pk": 6, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/domaine_serene.jpg", 
+            "name": "DOMAINE SERENE", 
+            "country": "USA", 
+            "region": "Oregon", 
+            "grapes": "Pinot Noir", 
+            "year": "2007", 
+            "id": "10", 
+            "description": "Though subtle in its complexities, this wine is sure to please a wide range of enthusiasts. Notes of pomegranate will delight as the nutty finish completes the picture of a fine sipping experience."
+        }
+    }, 
+    {
+        "pk": 7, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/lan_rioja.jpg", 
+            "name": "LAN RIOJA CRIANZA", 
+            "country": "Spain", 
+            "region": "Rioja", 
+            "grapes": "Tempranillo", 
+            "year": "2006", 
+            "id": "2", 
+            "description": "A resurgence of interest in boutique vineyards has opened the door for this excellent foray into the dessert wine market. Light and bouncy, with a hint of black truffle, this wine will not fail to tickle the taste buds."
+        }
+    }, 
+    {
+        "pk": 8, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/morizottes.jpg", 
+            "name": "LES MORIZOTTES", 
+            "country": "France", 
+            "region": "Burgundy", 
+            "grapes": "Chardonnay", 
+            "year": "2009", 
+            "id": "12", 
+            "description": "Breaking the mold of the classics, this offering will surprise and undoubtedly get tongues wagging with the hints of coffee and tobacco in\nperfect alignment with more traditional notes. Breaking the mold of the classics, this offering will surprise and\nundoubtedly get tongues wagging with the hints of coffee and tobacco in\nperfect alignment with more traditional notes. Sure to please the late-night crowd with the slight jolt of adrenaline it brings."
+        }
+    }, 
+    {
+        "pk": 9, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/margerum.jpg", 
+            "name": "MARGERUM SYBARITE", 
+            "country": "USA", 
+            "region": "California Central Cosat", 
+            "grapes": "Sauvignon Blanc", 
+            "year": "2010", 
+            "id": "3", 
+            "description": "The cache of a fine Cabernet in ones wine cellar can now be replaced with a childishly playful wine bubbling over with tempting tastes of\nblack cherry and licorice. This is a taste sure to transport you back in time."
+        }
+    }, 
+    {
+        "pk": 10, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/ex_umbris.jpg", 
+            "name": "OWEN ROE \"EX UMBRIS\"", 
+            "country": "USA", 
+            "region": "Washington", 
+            "grapes": "Syrah", 
+            "year": "2009", 
+            "id": "4", 
+            "description": "A one-two punch of black pepper and jalapeno will send your senses reeling, as the orange essence snaps you back to reality. Don't miss\nthis award-winning taste sensation."
+        }
+    }, 
+    {
+        "pk": 11, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/rex_hill.jpg", 
+            "name": "REX HILL", 
+            "country": "USA", 
+            "region": "Oregon", 
+            "grapes": "Pinot Noir", 
+            "year": "2009", 
+            "id": "5", 
+            "description": "One cannot doubt that this will be the wine served at the Hollywood award shows, because it has undeniable star power. Be the first to catch\nthe debut that everyone will be talking about tomorrow."
+        }
+    }, 
+    {
+        "pk": 12, 
+        "model": "winecellar.wine", 
+        "fields": {
+            "picture": "wines/viticcio.jpg", 
+            "name": "VITICCIO CLASSICO RISERVA", 
+            "country": "Italy", 
+            "region": "Tuscany", 
+            "grapes": "Sangiovese Merlot", 
+            "year": "2007", 
+            "id": "6", 
+            "description": "Though soft and rounded in texture, the body of this wine is full and rich and oh-so-appealing. This delivery is even more impressive when one takes note of the tender tannins that leave the taste buds wholly satisfied."
+        }
+    }
+]
