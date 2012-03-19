@@ -4,6 +4,10 @@ from django.views.decorators.csrf import csrf_exempt
 from django.http import HttpResponse
 import json
 
+"""
+For any serious rest api you should get some django application:
+http://djangopackages.com/grids/g/api/
+"""
 
 def read_wine_data(function):
     def decorator(request, wine_id=None):
@@ -56,7 +60,6 @@ def put_wines(request, wine_id, PUT):
     wine.update(PUT)
     return HttpResponse(status=200)
 
-#@read_wine_data
 def delete_wines(request, wine_id):
     wine = get_object_or_404(models.Wine, id=wine_id)
     wine.delete()
